@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Company
+## My company
 
 I'm currently working at [HKdigital](https://hkdigital.nl) in a small Dutch town called Ophemert ([where?](https://www.google.com/maps/place/HKdigital/@51.8461705,5.3736168,2397m/data=!3m1!1e3!4m5!3m4!1s0x47c6f70d46cc4da5:0xc8f4eff9ccc17a59!8m2!3d51.8467495!4d5.3790371)).
 
@@ -16,3 +16,15 @@ To this day, I love to think about how things can be done better and IT is a pra
 
 Gamification is one of my interests. Like IT, it is a tool to archieve something. People enjoy working with gamified software.
 And imagine that the software is not only on your screen, but actually runs an interactive environment around you? And how about putting that on wheels?
+
+## My code
+
+### Life is too short for private code
+
+Like most other developers, I had to choose between keeping code private or not.
+I've decided to start sharing code, I feel that's the best thing to do in the long run.
+
+Most code will be published as public repositories of HKdigital.
+But note that I'm just starting to share code and that this is work in progress.
+
+https://github.com/HKdigital
