@@ -28,3 +28,22 @@ Most code will be published as public repositories of HKdigital.
 But note that I'm just starting to share code and that this is work in progress.
 
 https://github.com/HKdigital
+
+## Fundraising against cancer
+
+Cancer is never far away, everyone knows someone who's life has been taken over by cancer. And how about you own future?
+We need a lot of money for research against cancer. This year I join **Alpe d'HuZes** and hope you can support me.
+
+### Help
+
+If you want to help in the fight against cancer, please donate whatever you think that feels good for you.
+**100%** of your donation will be directed to cancer research.
+
+https://www.opgevenisgeenoptie.nl/fundraisers/JensKleinhout
+
+### Limited offer
+
+In exchange for a donation, maybe I can help you with some small Javascript / ECMAScript challenge that you are stuck with.
+
+You can contact me via contact@hkdigital.nl
+
