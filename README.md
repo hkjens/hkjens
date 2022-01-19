@@ -9,7 +9,7 @@ HKdigital is close friends with [HKmobile](https://hkmobile.nl) and [HKsimulator
 ## My work
 
 I always followed a certain curiosity to guide my professional life, a desire to experience, learn, know and to create things.
-My education as electrical engineer at TU/e Eindhoven helped me to expand my posibilities.
+My education as electrical engineer at TU/e Eindhoven helped me to expand my possibilities.
 To this day, I love to think about how things can be done better and IT is a practical tool for that in our digital era.
 
 ### Gamification
