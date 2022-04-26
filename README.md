@@ -39,4 +39,4 @@ Currently I'm participating with team HKmobile in Alpe d'HuZes 2022:
 
 Alpe d'HuZes is a unique sporting event where as much money as possible is raised for cancer research and for improving the quality of life of people with cancer. On a single day, 5000 participants will bike, hike or run the Alpe d'Huez. Attempting a maximum of six climbs, under the motto 'giving up is not an option'.
 
-[Jens Kleinhout/Alpe d'huZes](https://www.opgevenisgeenoptie.nl/fundraisers/JensKleinhout)
+[Alpe d'huZes/Jens Kleinhout](https://www.opgevenisgeenoptie.nl/fundraisers/JensKleinhout)
