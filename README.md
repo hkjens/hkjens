@@ -28,7 +28,7 @@ Most code will be published as public repositories of HKdigital.
 
 Getting private code in shape, so the community can profit from it, is an ongoing work in progress. Please contact me if you want to join me by contributing in hours of work, financially or some other way.
 
-[HKdigital@GitHub](https://github.com/HKdigita)
+[HKdigital@GitHub](https://github.com/HKdigital)
 
 # Support cancer research
 
