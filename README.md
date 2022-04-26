@@ -28,7 +28,7 @@ Most code will be published as public repositories of HKdigital.
 
 Getting private code in shape, so the community can profit from it, is an ongoing work in progress. Please contact me if you want to join me by contributing in hours of work, financially or some other way.
 
-https://github.com/HKdigital
+[HKdigital@GitHub](https://github.com/HKdigita)
 
 # Support cancer research
 
@@ -39,4 +39,4 @@ Currently I'm participating with team HKmobile in Alpe d'HuZes 2022:
 
 Alpe d'HuZes is a unique sporting event where as much money as possible is raised for cancer research and for improving the quality of life of people with cancer. On a single day, 5000 participants will bike, hike or run the Alpe d'Huez. Attempting a maximum of six climbs, under the motto 'giving up is not an option'.
 
-https://www.opgevenisgeenoptie.nl/fundraisers/JensKleinhout
+[Jens Kleinhout/Alpe d'huZes](https://www.opgevenisgeenoptie.nl/fundraisers/JensKleinhout)
