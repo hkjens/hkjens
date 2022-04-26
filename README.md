@@ -24,26 +24,19 @@ And imagine that the software is not only on your screen, but actually runs an i
 Like most other developers, I had to choose between keeping code private or not.
 I've decided to start sharing code, I feel that's the best thing to do in the long run.
 
-Most code will be published as public repositories of HKdigital.
-But note that I'm just starting to share code and that this is work in progress.
+Most code will be published as public repositories of HKdigital. 
+
+Getting private code in shape, so the community can profit from it, is an ongoing work in progress. Please contact me if you want to join me by contributing in hours of work, financially or some other way.
 
 https://github.com/HKdigital
 
-## Fundraising against cancer
+# Support cancer research
 
-Cancer is never far away, everyone knows someone who's life has been taken over by cancer. And how about you own future?
-We need a lot of money for research against cancer. This year I join **Alpe d'HuZes** and hope you can support me.
+If you like my work and would like to motivate me to continue doing these things, please donate some money for cancer research.
+Do it for a better future of others and yourself!
 
-### Help
+Currently I'm participating with team HKmobile in Alpe d'HuZes 2022:
 
-If you want to help in the fight against cancer, please donate whatever you think that feels good for you.
-**100%** of your donation will be directed to cancer research.
+Alpe d'HuZes is a unique sporting event where as much money as possible is raised for cancer research and for improving the quality of life of people with cancer. On a single day, 5000 participants will bike, hike or run the Alpe d'Huez. Attempting a maximum of six climbs, under the motto 'giving up is not an option'.
 
 https://www.opgevenisgeenoptie.nl/fundraisers/JensKleinhout
-
-### Limited offer
-
-In exchange for a donation, maybe I can help you with some small Javascript / ECMAScript challenge that you are stuck with.
-
-You can contact me via contact@hkdigital.nl
-
