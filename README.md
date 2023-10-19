@@ -35,7 +35,7 @@ Getting private code in shape, so the community can profit from it, is an ongoin
 If you like my work and would like to motivate me to continue doing these things, please donate some money for cancer research.
 Do it for a better future of others and yourself!
 
-Currently I'm participating with team HKmobile in Alpe d'HuZes 2022:
+Currently I'm participating with team HKmobile in Alpe d'HuZes 2024:
 
 Alpe d'HuZes is a unique sporting event where as much money as possible is raised for cancer research and for improving the quality of life of people with cancer. On a single day, 5000 participants will bike, hike or run the Alpe d'Huez. Attempting a maximum of six climbs, under the motto 'giving up is not an option'.
 
